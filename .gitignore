@@ -1,0 +1,11 @@
+build-*/
+*.o
+*.obj
+*.exe
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.pro.user
+*.pro.user.*
+.DS_Store
+Thumbs.db
